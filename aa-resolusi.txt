@@ -3,3 +3,4 @@ AA RESOLUSI 2022
 - PHP
 - JAVA
 - Android
+- Tambahan bahasa C++
