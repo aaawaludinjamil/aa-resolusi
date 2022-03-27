@@ -4,3 +4,4 @@ AA RESOLUSI 2022
 - JAVA
 - Android
 - Tambahan bahasa C++
+- jadi programmer
